@@ -1,0 +1,63 @@
+C:\Users\zawis\Desktop\RRiR\RRiR\bin\Debug\RRiR.exe.config
+C:\Users\zawis\Desktop\RRiR\RRiR\bin\Debug\RRiR.exe
+C:\Users\zawis\Desktop\RRiR\RRiR\bin\Debug\RRiR.pdb
+C:\Users\zawis\Desktop\RRiR\RRiR\obj\Debug\RRiR.csproj.AssemblyReference.cache
+C:\Users\zawis\Desktop\RRiR\RRiR\obj\Debug\RRiR.Properties.Resources.resources
+C:\Users\zawis\Desktop\RRiR\RRiR\obj\Debug\RRiR.csproj.GenerateResource.cache
+C:\Users\zawis\Desktop\RRiR\RRiR\obj\Debug\RRiR.csproj.CoreCompileInputs.cache
+C:\Users\zawis\Desktop\RRiR\RRiR\obj\Debug\RRiR.exe
+C:\Users\zawis\Desktop\RRiR\RRiR\obj\Debug\RRiR.pdb
+C:\Users\zawis\Desktop\RRiR\RRiR\bin\Debug\MathNet.Numerics.dll
+C:\Users\zawis\Desktop\RRiR\RRiR\bin\Debug\System.ValueTuple.dll
+C:\Users\zawis\Desktop\RRiR\RRiR\bin\Debug\MathNet.Numerics.xml
+C:\Users\zawis\Desktop\RRiR\RRiR\bin\Debug\System.ValueTuple.xml
+C:\Users\zawis\Desktop\RRiR\RRiR\obj\Debug\RRiR.csproj.CopyComplete
+C:\Users\zawis\Desktop\RRiR\RRiR\bin\Debug\ScottPlot.dll
+C:\Users\zawis\Desktop\RRiR\RRiR\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\zawis\Desktop\RRiR\RRiR\bin\Debug\System.Drawing.Common.dll
+C:\Users\zawis\Desktop\RRiR\RRiR\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zawis\Desktop\RRiR\RRiR\bin\Debug\ScottPlot.xml
+C:\Users\zawis\Desktop\RRiR\RRiR\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zawis\Desktop\RRiR\RRiR\obj\Debug\RRiR.Form1.resources
+C:\Users\zawis\Desktop\Projekt RRiR\program\RRiR\bin\Debug\RRiR.exe.config
+C:\Users\zawis\Desktop\Projekt RRiR\program\RRiR\bin\Debug\RRiR.exe
+C:\Users\zawis\Desktop\Projekt RRiR\program\RRiR\bin\Debug\RRiR.pdb
+C:\Users\zawis\Desktop\Projekt RRiR\program\RRiR\bin\Debug\MathNet.Numerics.dll
+C:\Users\zawis\Desktop\Projekt RRiR\program\RRiR\bin\Debug\ScottPlot.dll
+C:\Users\zawis\Desktop\Projekt RRiR\program\RRiR\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\zawis\Desktop\Projekt RRiR\program\RRiR\bin\Debug\System.Drawing.Common.dll
+C:\Users\zawis\Desktop\Projekt RRiR\program\RRiR\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zawis\Desktop\Projekt RRiR\program\RRiR\bin\Debug\System.ValueTuple.dll
+C:\Users\zawis\Desktop\Projekt RRiR\program\RRiR\bin\Debug\MathNet.Numerics.xml
+C:\Users\zawis\Desktop\Projekt RRiR\program\RRiR\bin\Debug\ScottPlot.xml
+C:\Users\zawis\Desktop\Projekt RRiR\program\RRiR\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zawis\Desktop\Projekt RRiR\program\RRiR\bin\Debug\System.ValueTuple.xml
+C:\Users\zawis\Desktop\Projekt RRiR\program\RRiR\obj\Debug\RRiR.csproj.AssemblyReference.cache
+C:\Users\zawis\Desktop\Projekt RRiR\program\RRiR\obj\Debug\RRiR.Form1.resources
+C:\Users\zawis\Desktop\Projekt RRiR\program\RRiR\obj\Debug\RRiR.Properties.Resources.resources
+C:\Users\zawis\Desktop\Projekt RRiR\program\RRiR\obj\Debug\RRiR.csproj.GenerateResource.cache
+C:\Users\zawis\Desktop\Projekt RRiR\program\RRiR\obj\Debug\RRiR.csproj.CoreCompileInputs.cache
+C:\Users\zawis\Desktop\Projekt RRiR\program\RRiR\obj\Debug\RRiR.csproj.CopyComplete
+C:\Users\zawis\Desktop\Projekt RRiR\program\RRiR\obj\Debug\RRiR.exe
+C:\Users\zawis\Desktop\Projekt RRiR\program\RRiR\obj\Debug\RRiR.pdb
+C:\Users\zawis\Desktop\heat-equation-fem\RRiR\bin\Debug\RRiR.exe.config
+C:\Users\zawis\Desktop\heat-equation-fem\RRiR\bin\Debug\RRiR.exe
+C:\Users\zawis\Desktop\heat-equation-fem\RRiR\bin\Debug\RRiR.pdb
+C:\Users\zawis\Desktop\heat-equation-fem\RRiR\bin\Debug\MathNet.Numerics.dll
+C:\Users\zawis\Desktop\heat-equation-fem\RRiR\bin\Debug\ScottPlot.dll
+C:\Users\zawis\Desktop\heat-equation-fem\RRiR\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\zawis\Desktop\heat-equation-fem\RRiR\bin\Debug\System.Drawing.Common.dll
+C:\Users\zawis\Desktop\heat-equation-fem\RRiR\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zawis\Desktop\heat-equation-fem\RRiR\bin\Debug\System.ValueTuple.dll
+C:\Users\zawis\Desktop\heat-equation-fem\RRiR\bin\Debug\MathNet.Numerics.xml
+C:\Users\zawis\Desktop\heat-equation-fem\RRiR\bin\Debug\ScottPlot.xml
+C:\Users\zawis\Desktop\heat-equation-fem\RRiR\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zawis\Desktop\heat-equation-fem\RRiR\bin\Debug\System.ValueTuple.xml
+C:\Users\zawis\Desktop\heat-equation-fem\RRiR\obj\Debug\RRiR.csproj.AssemblyReference.cache
+C:\Users\zawis\Desktop\heat-equation-fem\RRiR\obj\Debug\RRiR.Form1.resources
+C:\Users\zawis\Desktop\heat-equation-fem\RRiR\obj\Debug\RRiR.Properties.Resources.resources
+C:\Users\zawis\Desktop\heat-equation-fem\RRiR\obj\Debug\RRiR.csproj.GenerateResource.cache
+C:\Users\zawis\Desktop\heat-equation-fem\RRiR\obj\Debug\RRiR.csproj.CoreCompileInputs.cache
+C:\Users\zawis\Desktop\heat-equation-fem\RRiR\obj\Debug\RRiR.csproj.CopyComplete
+C:\Users\zawis\Desktop\heat-equation-fem\RRiR\obj\Debug\RRiR.exe
+C:\Users\zawis\Desktop\heat-equation-fem\RRiR\obj\Debug\RRiR.pdb
